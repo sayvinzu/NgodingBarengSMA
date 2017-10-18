@@ -1,0 +1,27 @@
+<tabs>
+    <tab
+        id="@+id/menu_dasbor"
+        icon="@drawable/ic_dasbor"
+        title="Dasbor"
+        activeColor="#FFFF" />
+    <tab
+        id="@+id/menu_schedule"
+        icon="@drawable/ic_schedule"
+        title="Schedule"
+        activeColor="#FFFF" />
+    <tab
+        id="@+id/menu_add"
+        icon="@drawable/ic_add"
+        title="Add"
+        activeColor="#FFFF"/>
+    <tab
+        id="@+id/menu_chat"
+        icon="@drawable/ic_chat"
+        title="Chat"
+        activeColor="#FFFF"/>
+    <tab
+        id="@+id/menu_account"
+        icon="@drawable/ic_account"
+        title="Account"
+        activeColor="#FFFF"/>
+</tabs>
